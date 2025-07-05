@@ -1,0 +1,115 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 6350,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8466,
+      "start_sample": 6350,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 10582,
+      "start_sample": 8466,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12698,
+      "start_sample": 10582,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14814,
+      "start_sample": 12698,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21164,
+      "start_sample": 14814,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23280,
+      "start_sample": 21164,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25396,
+      "start_sample": 23280,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 31746,
+      "start_sample": 25396,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 38096,
+      "start_sample": 31746,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 44446,
+      "start_sample": 38096,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 46562,
+      "start_sample": 44446,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 48678,
+      "start_sample": 46562,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50794,
+      "start_sample": 48678,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 57144,
+      "start_sample": 50794,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 59260,
+      "start_sample": 57144,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 65610,
+      "start_sample": 59260,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1487,
+    "frequency": 611.1305541992188,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.182252883911133,
+    "text": "DAY",
+    "wpm": 25
+  }
+}

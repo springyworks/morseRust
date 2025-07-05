@@ -1,0 +1,259 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 2646,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5292,
+      "start_sample": 2646,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13230,
+      "start_sample": 5292,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21168,
+      "start_sample": 13230,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23814,
+      "start_sample": 21168,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26460,
+      "start_sample": 23814,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29106,
+      "start_sample": 26460,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 47628,
+      "start_sample": 29106,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 55566,
+      "start_sample": 47628,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 63504,
+      "start_sample": 55566,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 66150,
+      "start_sample": 63504,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 68796,
+      "start_sample": 66150,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 76734,
+      "start_sample": 68796,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 79380,
+      "start_sample": 76734,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 82026,
+      "start_sample": 79380,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 89964,
+      "start_sample": 82026,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 92610,
+      "start_sample": 89964,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 95256,
+      "start_sample": 92610,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 103194,
+      "start_sample": 95256,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 111132,
+      "start_sample": 103194,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 113778,
+      "start_sample": 111132,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 116424,
+      "start_sample": 113778,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 119070,
+      "start_sample": 116424,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 127008,
+      "start_sample": 119070,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 134946,
+      "start_sample": 127008,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 137592,
+      "start_sample": 134946,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 140238,
+      "start_sample": 137592,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 148176,
+      "start_sample": 140238,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 150822,
+      "start_sample": 148176,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 153468,
+      "start_sample": 150822,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 156114,
+      "start_sample": 153468,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 164052,
+      "start_sample": 156114,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 171990,
+      "start_sample": 164052,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 174636,
+      "start_sample": 171990,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 177282,
+      "start_sample": 174636,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 185220,
+      "start_sample": 177282,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 193158,
+      "start_sample": 185220,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 195804,
+      "start_sample": 193158,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 203742,
+      "start_sample": 195804,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 206388,
+      "start_sample": 203742,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 209034,
+      "start_sample": 206388,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 4740,
+    "frequency": 843.0186767578125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -16.347604751586914,
+    "text": "AI TRAINING",
+    "wpm": 20
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 6350,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8466,
+      "start_sample": 6350,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 10582,
+      "start_sample": 8466,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12698,
+      "start_sample": 10582,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 19048,
+      "start_sample": 12698,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 431,
+    "frequency": 650.7608032226562,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -14.117881774902344,
+    "text": "K",
+    "wpm": 25
+  }
+}

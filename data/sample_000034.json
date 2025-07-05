@@ -1,0 +1,67 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 5474,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7298,
+      "start_sample": 5474,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12772,
+      "start_sample": 7298,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14596,
+      "start_sample": 12772,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 20070,
+      "start_sample": 14596,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21894,
+      "start_sample": 20070,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23718,
+      "start_sample": 21894,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25542,
+      "start_sample": 23718,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 27366,
+      "start_sample": 25542,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 620,
+    "frequency": 559.870361328125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.406244277954102,
+    "text": "8",
+    "wpm": 29
+  }
+}

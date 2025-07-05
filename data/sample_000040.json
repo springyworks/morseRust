@@ -1,0 +1,103 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 10584,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14112,
+      "start_sample": 10584,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 17640,
+      "start_sample": 14112,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21168,
+      "start_sample": 17640,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 24696,
+      "start_sample": 21168,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 28224,
+      "start_sample": 24696,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 31752,
+      "start_sample": 28224,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 42336,
+      "start_sample": 31752,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 45864,
+      "start_sample": 42336,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 49392,
+      "start_sample": 45864,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52920,
+      "start_sample": 49392,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 56448,
+      "start_sample": 52920,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 67032,
+      "start_sample": 56448,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 77616,
+      "start_sample": 67032,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 88200,
+      "start_sample": 77616,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 2000,
+    "frequency": 504.92327880859375,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.847860336303711,
+    "text": "BUT",
+    "wpm": 15
+  }
+}

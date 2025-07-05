@@ -1,0 +1,211 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 6902,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9202,
+      "start_sample": 6902,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 16104,
+      "start_sample": 9202,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32210,
+      "start_sample": 16104,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 39112,
+      "start_sample": 32210,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 41412,
+      "start_sample": 39112,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 48314,
+      "start_sample": 41412,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50614,
+      "start_sample": 48314,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52914,
+      "start_sample": 50614,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 55214,
+      "start_sample": 52914,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 62116,
+      "start_sample": 55214,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 78222,
+      "start_sample": 62116,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 80522,
+      "start_sample": 78222,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 82822,
+      "start_sample": 80522,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 85122,
+      "start_sample": 82822,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 101228,
+      "start_sample": 85122,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 103528,
+      "start_sample": 101228,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 105828,
+      "start_sample": 103528,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 108128,
+      "start_sample": 105828,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 110428,
+      "start_sample": 108128,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 112728,
+      "start_sample": 110428,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 115028,
+      "start_sample": 112728,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 117328,
+      "start_sample": 115028,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 133434,
+      "start_sample": 117328,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 135734,
+      "start_sample": 133434,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 138034,
+      "start_sample": 135734,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 140334,
+      "start_sample": 138034,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 142634,
+      "start_sample": 140334,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 144934,
+      "start_sample": 142634,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 147234,
+      "start_sample": 144934,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 149534,
+      "start_sample": 147234,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 151834,
+      "start_sample": 149534,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 154134,
+      "start_sample": 151834,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 3495,
+    "frequency": 729.1083984375,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -17.0113582611084,
+    "text": "M Q I H 5",
+    "wpm": 23
+  }
+}

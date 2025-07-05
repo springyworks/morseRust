@@ -1,0 +1,115 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 10584,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14112,
+      "start_sample": 10584,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 24696,
+      "start_sample": 14112,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 28224,
+      "start_sample": 24696,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 31752,
+      "start_sample": 28224,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 35280,
+      "start_sample": 31752,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 45864,
+      "start_sample": 35280,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 56448,
+      "start_sample": 45864,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 67032,
+      "start_sample": 56448,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 77616,
+      "start_sample": 67032,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 81144,
+      "start_sample": 77616,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 84672,
+      "start_sample": 81144,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 88200,
+      "start_sample": 84672,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 91728,
+      "start_sample": 88200,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 95256,
+      "start_sample": 91728,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 98784,
+      "start_sample": 95256,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 102312,
+      "start_sample": 98784,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 2320,
+    "frequency": 883.499267578125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.342403411865234,
+    "text": "QTH",
+    "wpm": 15
+  }
+}

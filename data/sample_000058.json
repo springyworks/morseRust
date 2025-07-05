@@ -1,0 +1,103 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1603,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3206,
+      "start_sample": 1603,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 4809,
+      "start_sample": 3206,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 6412,
+      "start_sample": 4809,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8015,
+      "start_sample": 6412,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9618,
+      "start_sample": 8015,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 11221,
+      "start_sample": 9618,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 16031,
+      "start_sample": 11221,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 17634,
+      "start_sample": 16031,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 19237,
+      "start_sample": 17634,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 20840,
+      "start_sample": 19237,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25650,
+      "start_sample": 20840,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 30460,
+      "start_sample": 25650,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32063,
+      "start_sample": 30460,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 36873,
+      "start_sample": 32063,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 836,
+    "frequency": 906.981201171875,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.844429016113281,
+    "text": "HIM",
+    "wpm": 33
+  }
+}

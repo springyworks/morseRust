@@ -1,0 +1,235 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 2785,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5570,
+      "start_sample": 2785,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13925,
+      "start_sample": 5570,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 16710,
+      "start_sample": 13925,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 19495,
+      "start_sample": 16710,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 27850,
+      "start_sample": 19495,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 30635,
+      "start_sample": 27850,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 33420,
+      "start_sample": 30635,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 41775,
+      "start_sample": 33420,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50130,
+      "start_sample": 41775,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 58485,
+      "start_sample": 50130,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 61270,
+      "start_sample": 58485,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 64055,
+      "start_sample": 61270,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 66840,
+      "start_sample": 64055,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 69625,
+      "start_sample": 66840,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 77980,
+      "start_sample": 69625,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 80765,
+      "start_sample": 77980,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 83550,
+      "start_sample": 80765,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 86335,
+      "start_sample": 83550,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 94690,
+      "start_sample": 86335,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 103045,
+      "start_sample": 94690,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 105830,
+      "start_sample": 103045,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 114185,
+      "start_sample": 105830,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 116970,
+      "start_sample": 114185,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 125325,
+      "start_sample": 116970,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 144821,
+      "start_sample": 125325,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 153176,
+      "start_sample": 144821,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 161531,
+      "start_sample": 153176,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 164316,
+      "start_sample": 161531,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 172671,
+      "start_sample": 164316,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 175456,
+      "start_sample": 172671,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 178241,
+      "start_sample": 175456,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 181026,
+      "start_sample": 178241,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 183811,
+      "start_sample": 181026,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 186596,
+      "start_sample": 183811,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 194951,
+      "start_sample": 186596,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 203306,
+      "start_sample": 194951,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 4610,
+    "frequency": 575.6768798828125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -16.240571975708008,
+    "text": "RADIO TEST",
+    "wpm": 19
+  }
+}

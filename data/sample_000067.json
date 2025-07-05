@@ -1,0 +1,55 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 2405,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9621,
+      "start_sample": 2405,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12026,
+      "start_sample": 9621,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14431,
+      "start_sample": 12026,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21647,
+      "start_sample": 14431,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 28863,
+      "start_sample": 21647,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 36079,
+      "start_sample": 28863,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 818,
+    "frequency": 469.3877258300781,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.087472915649414,
+    "text": "EAT",
+    "wpm": 22
+  }
+}

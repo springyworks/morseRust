@@ -1,0 +1,19 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 4669,
+      "start_sample": 0,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 105,
+    "frequency": 789.546142578125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.888281345367432,
+    "text": "T",
+    "wpm": 34
+  }
+}

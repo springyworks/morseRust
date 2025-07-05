@@ -1,0 +1,67 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1653,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3306,
+      "start_sample": 1653,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 4959,
+      "start_sample": 3306,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 6612,
+      "start_sample": 4959,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8265,
+      "start_sample": 6612,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13226,
+      "start_sample": 8265,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14879,
+      "start_sample": 13226,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 19840,
+      "start_sample": 14879,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21493,
+      "start_sample": 19840,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 487,
+    "frequency": 1190.8868408203125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.74360466003418,
+    "text": "SEE",
+    "wpm": 32
+  }
+}

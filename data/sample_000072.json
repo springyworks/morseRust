@@ -1,0 +1,115 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1959,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3918,
+      "start_sample": 1959,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5877,
+      "start_sample": 3918,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7836,
+      "start_sample": 5877,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9795,
+      "start_sample": 7836,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 15675,
+      "start_sample": 9795,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21555,
+      "start_sample": 15675,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23514,
+      "start_sample": 21555,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29394,
+      "start_sample": 23514,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 31353,
+      "start_sample": 29394,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 37233,
+      "start_sample": 31353,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 43113,
+      "start_sample": 37233,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 45072,
+      "start_sample": 43113,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 47031,
+      "start_sample": 45072,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 48990,
+      "start_sample": 47031,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50949,
+      "start_sample": 48990,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52908,
+      "start_sample": 50949,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1199,
+    "frequency": 923.2750854492188,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.622668266296387,
+    "text": "SOS",
+    "wpm": 27
+  }
+}

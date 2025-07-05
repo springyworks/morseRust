@@ -1,0 +1,67 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 6106,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8141,
+      "start_sample": 6106,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14247,
+      "start_sample": 8141,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 16282,
+      "start_sample": 14247,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18317,
+      "start_sample": 16282,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 24423,
+      "start_sample": 18317,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26458,
+      "start_sample": 24423,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32564,
+      "start_sample": 26458,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 38670,
+      "start_sample": 32564,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 876,
+    "frequency": 1098.076904296875,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.410323143005371,
+    "text": "GET",
+    "wpm": 26
+  }
+}

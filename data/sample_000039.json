@@ -1,0 +1,79 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1556,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3112,
+      "start_sample": 1556,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7781,
+      "start_sample": 3112,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12450,
+      "start_sample": 7781,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14006,
+      "start_sample": 12450,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 15562,
+      "start_sample": 14006,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 20231,
+      "start_sample": 15562,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21787,
+      "start_sample": 20231,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23343,
+      "start_sample": 21787,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 28012,
+      "start_sample": 23343,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29568,
+      "start_sample": 28012,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 670,
+    "frequency": 709.8555908203125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.131831169128418,
+    "text": "ARE",
+    "wpm": 34
+  }
+}

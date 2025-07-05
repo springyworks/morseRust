@@ -1,0 +1,163 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 5670,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7560,
+      "start_sample": 5670,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13230,
+      "start_sample": 7560,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26460,
+      "start_sample": 13230,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32130,
+      "start_sample": 26460,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 34020,
+      "start_sample": 32130,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 35910,
+      "start_sample": 34020,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 37800,
+      "start_sample": 35910,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 43470,
+      "start_sample": 37800,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 45360,
+      "start_sample": 43470,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 51030,
+      "start_sample": 45360,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 64260,
+      "start_sample": 51030,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 66150,
+      "start_sample": 64260,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 68040,
+      "start_sample": 66150,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 69930,
+      "start_sample": 68040,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 71820,
+      "start_sample": 69930,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 73710,
+      "start_sample": 71820,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 75600,
+      "start_sample": 73710,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 81270,
+      "start_sample": 75600,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 94500,
+      "start_sample": 81270,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 96390,
+      "start_sample": 94500,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 98280,
+      "start_sample": 96390,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 103950,
+      "start_sample": 98280,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 105840,
+      "start_sample": 103950,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 107730,
+      "start_sample": 105840,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 2442,
+    "frequency": 617.31494140625,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.5923614501953125,
+    "text": "M Y V R",
+    "wpm": 28
+  }
+}

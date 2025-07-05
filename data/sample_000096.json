@@ -1,0 +1,247 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1707,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3414,
+      "start_sample": 1707,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5121,
+      "start_sample": 3414,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 6828,
+      "start_sample": 5121,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 11949,
+      "start_sample": 6828,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13656,
+      "start_sample": 11949,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18777,
+      "start_sample": 13656,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 20484,
+      "start_sample": 18777,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25605,
+      "start_sample": 20484,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 37554,
+      "start_sample": 25605,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 39261,
+      "start_sample": 37554,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 40968,
+      "start_sample": 39261,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 42675,
+      "start_sample": 40968,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 44382,
+      "start_sample": 42675,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 46089,
+      "start_sample": 44382,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 58038,
+      "start_sample": 46089,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 63159,
+      "start_sample": 58038,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 64866,
+      "start_sample": 63159,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 69987,
+      "start_sample": 64866,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 81936,
+      "start_sample": 69987,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 83643,
+      "start_sample": 81936,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 85350,
+      "start_sample": 83643,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 90471,
+      "start_sample": 85350,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 92178,
+      "start_sample": 90471,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 97299,
+      "start_sample": 92178,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 109248,
+      "start_sample": 97299,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 114369,
+      "start_sample": 109248,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 116076,
+      "start_sample": 114369,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 117783,
+      "start_sample": 116076,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 119490,
+      "start_sample": 117783,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 121197,
+      "start_sample": 119490,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 122904,
+      "start_sample": 121197,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 124611,
+      "start_sample": 122904,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 136560,
+      "start_sample": 124611,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 141681,
+      "start_sample": 136560,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 143388,
+      "start_sample": 141681,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 145095,
+      "start_sample": 143388,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 146802,
+      "start_sample": 145095,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 148509,
+      "start_sample": 146802,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 3367,
+    "frequency": 829.923828125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -16.646942138671875,
+    "text": "2 S M W B D",
+    "wpm": 31
+  }
+}

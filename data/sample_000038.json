@@ -1,0 +1,127 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1603,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3206,
+      "start_sample": 1603,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 4809,
+      "start_sample": 3206,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 6412,
+      "start_sample": 4809,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 11222,
+      "start_sample": 6412,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12825,
+      "start_sample": 11222,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14428,
+      "start_sample": 12825,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 19238,
+      "start_sample": 14428,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 24048,
+      "start_sample": 19238,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25651,
+      "start_sample": 24048,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 30461,
+      "start_sample": 25651,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32064,
+      "start_sample": 30461,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 36874,
+      "start_sample": 32064,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 41684,
+      "start_sample": 36874,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 43287,
+      "start_sample": 41684,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 44890,
+      "start_sample": 43287,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 49700,
+      "start_sample": 44890,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 51303,
+      "start_sample": 49700,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52906,
+      "start_sample": 51303,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1199,
+    "frequency": 589.8463134765625,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.493751525878906,
+    "text": "FOR",
+    "wpm": 33
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 2646,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5292,
+      "start_sample": 2646,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7938,
+      "start_sample": 5292,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 10584,
+      "start_sample": 7938,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 13230,
+      "start_sample": 10584,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 15876,
+      "start_sample": 13230,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18522,
+      "start_sample": 15876,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26460,
+      "start_sample": 18522,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29106,
+      "start_sample": 26460,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 37044,
+      "start_sample": 29106,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 39690,
+      "start_sample": 37044,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 42336,
+      "start_sample": 39690,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50274,
+      "start_sample": 42336,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52920,
+      "start_sample": 50274,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 55566,
+      "start_sample": 52920,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1260,
+    "frequency": 763.03955078125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -16.241975784301758,
+    "text": "HER",
+    "wpm": 20
+  }
+}

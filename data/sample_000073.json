@@ -1,0 +1,199 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 5670,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7560,
+      "start_sample": 5670,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9450,
+      "start_sample": 7560,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 11340,
+      "start_sample": 9450,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 17010,
+      "start_sample": 11340,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18900,
+      "start_sample": 17010,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 20790,
+      "start_sample": 18900,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26460,
+      "start_sample": 20790,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32130,
+      "start_sample": 26460,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 34020,
+      "start_sample": 32130,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 39690,
+      "start_sample": 34020,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 41580,
+      "start_sample": 39690,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 43470,
+      "start_sample": 41580,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 45360,
+      "start_sample": 43470,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 51030,
+      "start_sample": 45360,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 64260,
+      "start_sample": 51030,
+      "symbol": "WordGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 69930,
+      "start_sample": 64260,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 71820,
+      "start_sample": 69930,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 73710,
+      "start_sample": 71820,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 75600,
+      "start_sample": 73710,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 81270,
+      "start_sample": 75600,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 83160,
+      "start_sample": 81270,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 85050,
+      "start_sample": 83160,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 90720,
+      "start_sample": 85050,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 96390,
+      "start_sample": 90720,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 98280,
+      "start_sample": 96390,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 103950,
+      "start_sample": 98280,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 105840,
+      "start_sample": 103950,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 107730,
+      "start_sample": 105840,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 109620,
+      "start_sample": 107730,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 115290,
+      "start_sample": 109620,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 2614,
+    "frequency": 710.1039428710938,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.638136863708496,
+    "text": "CQ CQ",
+    "wpm": 28
+  }
+}

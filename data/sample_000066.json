@@ -1,0 +1,103 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 2520,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 5040,
+      "start_sample": 2520,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12600,
+      "start_sample": 5040,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 15120,
+      "start_sample": 12600,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 17640,
+      "start_sample": 15120,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 25200,
+      "start_sample": 17640,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 27720,
+      "start_sample": 25200,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 30240,
+      "start_sample": 27720,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32760,
+      "start_sample": 30240,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 35280,
+      "start_sample": 32760,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 42840,
+      "start_sample": 35280,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 50400,
+      "start_sample": 42840,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 57960,
+      "start_sample": 50400,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 60480,
+      "start_sample": 57960,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 63000,
+      "start_sample": 60480,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1428,
+    "frequency": 609.5592651367188,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -15.570521354675293,
+    "text": "RUN",
+    "wpm": 21
+  }
+}

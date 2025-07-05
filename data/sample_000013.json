@@ -1,0 +1,31 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 5670,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7560,
+      "start_sample": 5670,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 9450,
+      "start_sample": 7560,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 214,
+    "frequency": 867.59033203125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -14.013323783874512,
+    "text": "N",
+    "wpm": 28
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 7938,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 10584,
+      "start_sample": 7938,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18522,
+      "start_sample": 10584,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 21168,
+      "start_sample": 18522,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23814,
+      "start_sample": 21168,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 26460,
+      "start_sample": 23814,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29106,
+      "start_sample": 26460,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 660,
+    "frequency": 523.4027099609375,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -7.450900077819824,
+    "text": "Z",
+    "wpm": 20
+  }
+}

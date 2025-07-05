@@ -1,0 +1,43 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 1603,
+      "start_sample": 0,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 3206,
+      "start_sample": 1603,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 4809,
+      "start_sample": 3206,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 6412,
+      "start_sample": 4809,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 8015,
+      "start_sample": 6412,
+      "symbol": "Dot"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 181,
+    "frequency": 448.0155944824219,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.564135551452637,
+    "text": "S",
+    "wpm": 33
+  }
+}

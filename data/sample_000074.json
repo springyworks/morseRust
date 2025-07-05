@@ -1,0 +1,103 @@
+{
+  "labels": [
+    {
+      "confidence": 1.0,
+      "end_sample": 5474,
+      "start_sample": 0,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 7298,
+      "start_sample": 5474,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 12772,
+      "start_sample": 7298,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 14596,
+      "start_sample": 12772,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 16420,
+      "start_sample": 14596,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 18244,
+      "start_sample": 16420,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 23718,
+      "start_sample": 18244,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 29192,
+      "start_sample": 23718,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 31016,
+      "start_sample": 29192,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 32840,
+      "start_sample": 31016,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 38314,
+      "start_sample": 32840,
+      "symbol": "Dash"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 40138,
+      "start_sample": 38314,
+      "symbol": "IntraCharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 41962,
+      "start_sample": 40138,
+      "symbol": "Dot"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 47436,
+      "start_sample": 41962,
+      "symbol": "CharGap"
+    },
+    {
+      "confidence": 1.0,
+      "end_sample": 52910,
+      "start_sample": 47436,
+      "symbol": "Dash"
+    }
+  ],
+  "metadata": {
+    "duration_ms": 1199,
+    "frequency": 590.6212158203125,
+    "noise_level": 0.25,
+    "sample_rate": 44100,
+    "snr_db": -6.396723747253418,
+    "text": "QRT",
+    "wpm": 29
+  }
+}
